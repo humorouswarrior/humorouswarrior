@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/humorouswarrior" target="blank"><img src="https://img.shields.io/twitter/follow/humorouswarrior?logo=twitter&style=for-the-badge" alt="humorouswarrior" /></a> </p>
 
-- 🔭 I’m currently exploring opportunities in **Python development, android and cloud computing.**
+- 🔭 I’m currently exploring opportunities in ** Web development, Python programming and Data Science.**
 
-- 🌱 I’m currently learning **Python, SQL, Basics of networking, Android OS development and Web Development**
+- 🌱 I’m currently learning **Python and data science, SQL, Basics of networking, Android OS development and Web Development**
 
 - 👯 I’m looking to collaborate for **Web development projects, preferably based on react.js**
 
