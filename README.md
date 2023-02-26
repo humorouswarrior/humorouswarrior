@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently exploring opportunities in ** Web development, Python programming and Data Science.**
 
-- 🌱 I’m currently learning **Python and data science, SQL, Basics of networking, Android OS development and Web Development**
+- 🌱 I’m currently learning **Backend Development, Python and data science, SQL, Basics of networking, Android OS development and Web Development**
 
-- 👯 I’m looking to collaborate for **Web development projects, preferably based on react.js**
+- 👯 I’m looking to collaborate for **Web development projects, preferably based on react.js and node.js**
 
 - 👨‍💻 All of my projects are available at [github.com/humorouswarrior?tab=repositories](github.com/humorouswarrior?tab=repositories)
 
-- 💬 Ask me about **React.js, SQL, Android devices in general, DSA in C++, JavaScript etc.**
+- 💬 Ask me about **React.js, MongoDb, Express.js, Android devices in general, DSA in C++, JavaScript etc.**
 
 - 📫 How to reach me **khandelwalv971@gmail.com**
 
