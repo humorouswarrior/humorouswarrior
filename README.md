@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently exploring opportunities in ** Web development, Python programming and Data Science.**
 
-- 🌱 I’m currently learning **Backend Development, Python and data science, SQL, Basics of networking, Android OS development and Web Development**
+- 🌱 I’m currently learning **Backend Development, Python and data science, Databases, Basics of networking, Android OS development and Web Development**
 
 - 👯 I’m looking to collaborate for **Web development projects, preferably based on react.js and node.js**
 
